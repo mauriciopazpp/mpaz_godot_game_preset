@@ -2,6 +2,9 @@
 
 Game settings system for Godot 4 with automatic persistence. Manage video, audio, controls, and gameplay settings with a simple, ready-to-use solution.
 
+## Screenshots
+<img width="581" height="622" alt="image" src="https://github.com/user-attachments/assets/db26eca9-56ab-4e52-ad7a-6833ee983b0a" />
+
 ## Features
 
 ### Core Settings
