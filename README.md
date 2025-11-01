@@ -1,4 +1,4 @@
-# MPAZ Game Preset
+# MPAZ Game Preset for Godot
 
 Game settings system for Godot 4 with automatic persistence. Manage video, audio, controls, and gameplay settings with a simple, ready-to-use solution.
 
